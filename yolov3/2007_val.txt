@@ -1,0 +1,82 @@
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001013.jpg 234,169,554,853,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001017.jpg 185,254,437,956,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001020.jpg 270,264,470,932,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001025.jpg 287,297,509,755,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001029.jpg 299,307,506,743,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001031.jpg 313,250,456,656,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001052.jpg 165,171,246,362,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001057.jpg 246,189,320,438,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001091.jpg 286,189,456,804,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001105.jpg 199,309,274,520,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001106.jpg 217,218,416,664,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001114.jpg 438,236,597,787,0 275,303,443,710,0 653,246,834,774,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001119.jpg 80,165,118,265,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001124.jpg 223,186,366,554,0 373,221,474,550,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001125.jpg 129,243,219,550,0 248,216,353,550,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001132.jpg 200,230,457,933,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001141.jpg 421,210,544,748,0 189,223,349,738,0 129,240,184,415,0 591,195,712,577,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001154.jpg 281,161,619,967,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001201.jpg 236,279,349,673,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001237.jpg 189,143,298,448,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001253.jpg 206,167,388,852,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001260.jpg 195,184,357,622,0 256,189,406,605,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001274.jpg 179,212,282,612,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001278.jpg 44,121,104,254,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001506.jpg 218,183,355,642,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001521.jpg 194,176,256,418,0 262,182,314,375,0 372,181,433,368,0 419,159,475,344,0 492,170,558,382,0 550,181,605,384,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001534.jpg 643,259,705,472,0 295,278,487,756,0 575,282,616,412,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001543.jpg 150,137,182,224,0 289,127,319,188,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001547.jpg 97,100,120,147,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001559.jpg 635,150,773,544,0 516,180,614,544,0 395,199,525,559,0 306,184,419,534,0 177,166,303,476,0 120,148,186,379,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001582.jpg 231,49,427,771,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001584.jpg 297,121,504,836,0 58,74,253,827,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001629.jpg 451,219,558,691,0 352,225,469,652,0 640,280,726,635,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001644.jpg 149,183,243,506,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001657.jpg 371,145,441,380,0 155,149,236,373,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001669.jpg 347,99,381,173,0 578,243,619,332,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001704.jpg 444,277,601,794,0 102,315,228,785,0 800,78,844,219,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001710.jpg 150,193,208,407,0 211,193,260,352,0 354,190,387,288,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001714.jpg 158,278,246,683,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001831.jpg 118,119,176,258,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop001832.jpg 66,84,103,193,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop_000004.jpg 141,53,239,347,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop_000017.jpg 513,63,684,718,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/crop_000021.jpg 289,49,469,533,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_007.jpg 139,107,244,480,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_029.jpg 80,85,253,602,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_032.jpg 152,54,332,631,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_038.jpg 217,200,346,534,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_064.jpg 252,131,357,471,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_090.jpg 225,164,322,528,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_127.jpg 333,78,451,402,0 242,113,334,402,0 125,86,155,165,0 94,87,121,160,0 150,91,176,165,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_135.jpg 319,141,389,393,0 257,157,321,396,0 172,142,262,396,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_143.jpg 306,64,388,379,0 231,80,309,367,0 98,78,214,378,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_156.jpg 336,201,425,399,0 245,187,330,424,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_174.jpg 318,103,424,371,0 169,184,241,372,0 427,225,499,367,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_190.jpg 259,145,334,367,0 121,126,211,362,0 348,140,473,418,0 427,123,525,366,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_195.jpg 321,165,399,375,0 264,188,319,376,0 65,172,115,360,0 24,179,78,344,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_196.jpg 330,74,448,397,0 196,97,286,387,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_198.jpg 183,82,305,446,0 318,103,429,431,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_212.jpg 302,166,366,356,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_224.jpg 237,111,319,438,0 318,139,382,394,0 367,125,472,410,0 471,169,551,390,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_234.jpg 236,170,301,361,0 332,161,409,358,0 115,166,176,329,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_300.jpg 252,106,378,402,0 338,70,375,187,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_317.jpg 324,147,404,385,0 190,160,296,395,0 180,137,215,216,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_344.jpg 73,77,163,366,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_029.jpg 571,120,610,265,0 204,153,304,468,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_051.jpg 267,80,399,417,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_072.jpg 384,46,494,414,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_077.jpg 376,25,465,342,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_080.jpg 378,41,518,475,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_083.jpg 237,33,394,457,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_094.jpg 237,51,373,394,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_095.jpg 179,52,315,400,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_096.jpg 201,41,335,388,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_111.jpg 200,16,467,382,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_121.jpg 291,104,366,344,0 387,121,454,364,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_136.jpg 382,153,455,368,0 326,159,393,379,0 202,170,277,359,0 111,165,186,359,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_138.jpg 322,171,388,342,0 448,160,478,235,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_146.jpg 240,111,328,429,0 321,246,391,425,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_149.jpg 204,176,304,446,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_156.jpg 368,119,442,325,0
+F:\yolov3_rxy_new\yolo3-pytorch-person0315_new\VOCdevkit/VOC2007/JPEGImages/person_and_bike_190.jpg 211,144,308,370,0 283,127,390,384,0
